@@ -1,5 +1,4 @@
 ﻿#include "GameManager.h"
-#include <SDL_mixer.h>
 
 using namespace std;
 
