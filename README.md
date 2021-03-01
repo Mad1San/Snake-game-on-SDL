@@ -7,3 +7,5 @@
 #SDL2_image.lib (you must also specify a path to them). 
 #Open 'SDLApp.vcxproj'
 #Then add "libfreetype-6.dll", "libpng16-16.dll", "SDL2.dll", "SDL2_image.dll", "SDL2_ttf.dll", "zlib1.dll" to the project folder and compile.
+
+#The game is controlled with the key 'Up', 'Down', 'Left', 'Right'.
